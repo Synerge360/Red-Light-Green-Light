@@ -42,8 +42,9 @@ Outputs:
 * TFT_ILI9163C.h: This is the TFT library. It is used to turn the TFT display on and off. It’s also used to fill the entire screen with one color.
 
 **Wiring Diagram:**
-
+![](Circuit.png)
+![](real.jpg)
 **Task Diagrams:**
-
+![](task.jpg)
 **SynchSM Diagrams:**
-
+![](synch.jpg)
