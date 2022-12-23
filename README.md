@@ -9,7 +9,7 @@ Alvin Hoang \
 **Introduction:**
 This project is a Red Light Green Light video game that is programmed onto a small 1.44’’ TFT Display that can only be accessed with an ID card. The player has to press the button when the light turns green and avoid pressing the button when it’s red. There will be a scoreboard that keeps track of the score in the game. The goal of the game is to get as many points as you can without pressing the red light. The lights change randomly using a random number generator. There is one bug where the displays do not turn off on the “Game Over” screen when the ID card is placed. Also, sometimes the button is not registered when the light turns green. 
 
-**Complexities:**\
+**Complexities:**
 * Using a random number generator to randomly blink the lights in the game (implemented)
 * Using an external EEPROM to save the high score (implemented)
 * Using an RFID kit to have it scan access cards to the game (not implemented)
