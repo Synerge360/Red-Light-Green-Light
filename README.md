@@ -4,7 +4,8 @@ CS120B Final Project (Arduino)
 CS/EE 120B Custom Laboratory Project Report \
 Red Light Green Light \
 Alvin Hoang \
-12/07/2022 
+12/07/2022 \
+**Video Link:** https://youtu.be/t6YLkmVrDgY
 
 **Introduction:**
 This project is a Red Light Green Light video game that is programmed onto a small 1.44’’ TFT Display that can only be accessed with an ID card. The player has to press the button when the light turns green and avoid pressing the button when it’s red. There will be a scoreboard that keeps track of the score in the game. The goal of the game is to get as many points as you can without pressing the red light. The lights change randomly using a random number generator. There is one bug where the displays do not turn off on the “Game Over” screen when the ID card is placed. Also, sometimes the button is not registered when the light turns green. 
